@@ -83,4 +83,4 @@ To fit within student computational constraints (single GPU, limited time), the 
 ## References
 
 - Tan, H., & Bansal, M. (2019). *LXMERT: Learning Cross-Modality Encoder Representations from Transformers*. EMNLP.
-- Dataset: Flickr30k Entities.
+- Dataset: [Flickr30k Entities](https://www.kaggle.com/datasets/hsankesara/flickr-image-dataset).
